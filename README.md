@@ -66,3 +66,4 @@ Given more time, I would want to:
  6. Check http status codes on all responses and handle them appropriately
  7. Build out error notification messages in the UI in case of server errors
  8. Add loading states
+ 9. Add a scss or less
